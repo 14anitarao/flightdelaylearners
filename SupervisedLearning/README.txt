@@ -1,6 +1,3 @@
-The code can be found at:
-https://github.gatech.edu/arao338/CS7641_SupervisedLearning.git
-
 This folder contains:
 
  * README.txt - This file as an overview of folder contents.
